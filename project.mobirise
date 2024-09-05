@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "flexm5",
       "title": "FlexM5",
@@ -64,7 +64,17 @@
       }
     ],
     "uniqCompNum": 26,
-    "versionPublish": "5.9.18"
+    "versionPublish": "5.9.18",
+    "favicon": false,
+    "mbrsiteDomain": "fglgbc06ek",
+    "imageResize": false,
+    "usedWebp": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
